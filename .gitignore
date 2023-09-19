@@ -1,0 +1,185 @@
+# Visual Studio files
+.vscode/
+.vs/
+
+# Rider files
+.idea/
+
+# Compiled files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet packages
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.mst
+*.pdb
+*.obj
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.iml
+
+# User-specific files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# User-specific files
+.idea/**/libraries
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/**/scopes
+.idea/**/uiDesigner.xml
+.idea/**/dataSources.xml
+.idea/**/gradle.xml
+.idea/**/navigationHistory
+.idea/**/webServers.xml
+.idea/**/workspace.xml
+.idea/**/kt.xml
+.idea/**/dictionaries
+.idea/**/views
+
+# Local history
+.idea/**/localHistory
+
+# Rider
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/artifacts
+
+# User-specific files
+.idea/**/workspace.xml
+.idea/**/dataSources.xml
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# ReSharper
+.idea/**/inspectionProfiles
+
+# User-specific files
+.idea/**/caches
+
+# NetBeans
+nbproject/private/
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.mst
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.iml
+
+# User-specific files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# User-specific files
+.idea/**/libraries
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/**/scopes
+.idea/**/uiDesigner.xml
+.idea/**/dataSources.xml
+.idea/**/gradle.xml
+.idea/**/navigationHistory
+.idea/**/webServers.xml
+.idea/**/workspace.xml
+.idea/**/kt.xml
+.idea/**/dictionaries
+.idea/**/views
+
+# Local history
+.idea/**/localHistory
+
+# Rider
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/artifacts
+
+# User-specific files
+.idea/**/workspace.xml
+.idea/**/dataSources.xml
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# ReSharper
+.idea/**/inspectionProfiles
+
+# User-specific files
+.idea/**/caches
+
+# NetBeans
+nbproject/private/
